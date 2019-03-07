@@ -6,3 +6,7 @@ h1 {
     font-family: "GFS Didot", serif;
 }
 
+.fab {
+    display: block;
+    padding-right: 15px;
+}
