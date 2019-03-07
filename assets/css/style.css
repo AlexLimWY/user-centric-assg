@@ -1,5 +1,6 @@
 body {
     font-family: helvetica, sans-serif;
+    background-color: lavender;
 }
 
 h1 {
@@ -9,4 +10,12 @@ h1 {
 .fab {
     display: block;
     padding-right: 15px;
+}
+
+.jumbotron {
+    background-image: url("../images/Hero Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 600px;
 }
