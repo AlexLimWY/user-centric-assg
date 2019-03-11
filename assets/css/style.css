@@ -3,7 +3,7 @@ body {
     background-color: lavender;
 }
 
-h1, label, ::placeholder {
+h1, h2, .nav-link, label, ::placeholder {
     font-family: "GFS Didot", serif;
 }
 
