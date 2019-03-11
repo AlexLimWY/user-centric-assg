@@ -1,8 +1,6 @@
 # Lady Gaga Information Site
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This is an information website about Lady Gaga. It will cover her life and achievements so that people can find out more about Lady Gaga.
  
 ## UX
  
@@ -72,8 +70,23 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-- The text for Latest News was copied from the following The Independent articles:
-    - [LADY GAGA TRANSFORMS INTO LIVING ‘COUTURE DOLL’ FOR MAGAZINE COVER](https://www.independent.co.uk/life-style/women/lady-gaga-v-magazine-10-year-career-living-doll-jean-paul-goude-a8810451.html)
+- The text for "Latest News" was copied from the following Gaga Daily articles:
+    - [Lady Gaga Celebrates Decade With V Magazine With Enigmatic Cover](https://gagadaily.com/story/news/lady-gaga-v-magazine-118/)
+    - [Lady Gaga Lands First Number One Single In 8 Years](https://gagadaily.com/story/news/lady-gaga-shallow-number-one/)
+    - [Lady Gaga Addresses Bradley Cooper Romance Rumors On Jimmy Kimmel](https://gagadaily.com/story/news/lady-gaga-jimmy-kimmel-oscars/)
+- The text for "Accolades" was copied from the following Wikipedia article: [Achievements](https://en.wikipedia.org/wiki/Lady_Gaga#Achievements)
+- The text for "Philanthropy" was copied from the following Wikipedia article: [Born This Way Foundation](https://en.wikipedia.org/wiki/Lady_Gaga#Born_This_Way_Foundation)
+- The text for "Personal Life" was copied from the following IMDb article: [Lady Gaga Biography](https://www.imdb.com/name/nm3078932/bio?ref_=nm_ov_bio_sm)
+- The text for "The Fame" was copied from the following Wikipedia article: [The Fame](https://en.wikipedia.org/wiki/The_Fame)
+- The text for "Artpop" was copied from the following Wikipedia article: [Artpop](https://en.wikipedia.org/wiki/Artpop)
+- The text for "Born This Way" was copied from the following Wikipedia article: [Born This Way (album)](https://en.wikipedia.org/wiki/Born_This_Way_(album))
+- The text for "Cheek To Cheek" was copied from the following Wikipedia article: [Cheek to Cheek (album)](https://en.wikipedia.org/wiki/Cheek_to_Cheek_(album))
+- The text for "Cheek To Cheek" was copied from the following Wikipedia article: [Joanne (album)](https://en.wikipedia.org/wiki/Joanne_(album))
+- The text for "A Star Is Born" was copied from the following Wikipedia article: [A Star Is Born (2018 soundtrack)](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_soundtrack))
+- The text for "American Horror Story: Hotel" was copied from the following Wikipedia article: [American Horror Story: Hotel](https://en.wikipedia.org/wiki/American_Horror_Story:_Hotel)
+- The text for "American Horror Story: Roanoke" was copied from the following Wikipedia article: [American Horror Story: Roanoke](https://en.wikipedia.org/wiki/American_Horror_Story:_Roanoke)
+- The text for "A Star Is Born" was copied from the following Wikipedia article: [A Star Is Born (2018 film)](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film))
+
 ### Media
 - The photos used in this site were obtained from ...
 
