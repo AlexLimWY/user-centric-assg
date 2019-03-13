@@ -4,16 +4,17 @@ This is an information website about Lady Gaga. It will cover her life and achie
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. 
+ - The light colour scheme was chosen to create a light-hearted and easy navigation feel. The main colours used were lavender (Lady Gaga's favourite colour) and white.
+ - For the font, Helvetica (Humanist Sans-Serif) was used for Body and Didot (Modern Serif) was used for Headings and Navigation Bar to create contrast.
+ - Information was classified into "Biography", "Discography", "Filmography" and "Contact" as these are the main topics that users would want to look into.
+ - Links to Lady Gaga's Facebook, Instagram, Twitter and YouTube profiles were provided for the user's ease of access.
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+## Technologies
+1. HTML
+2. CSS
+3. Bootstrap (Version 4)
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -69,7 +70,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
 - The text for "Latest News" was copied from the following Gaga Daily articles:
     - [Lady Gaga Celebrates Decade With V Magazine With Enigmatic Cover](https://gagadaily.com/story/news/lady-gaga-v-magazine-118/)
     - [Lady Gaga Lands First Number One Single In 8 Years](https://gagadaily.com/story/news/lady-gaga-shallow-number-one/)
