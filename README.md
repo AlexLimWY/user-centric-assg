@@ -25,7 +25,7 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- I would like to add smooth scrolling to the 'Biography' page's navigation menu so that the user will not jump to the section he clicks on. Instead, the page will scroll smoothly to the section after he clicks on it.
 
 ## Technologies Used
 
@@ -89,8 +89,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for "A Star Is Born" was copied from the following Wikipedia article: [A Star Is Born (2018 film)](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film))
 
 ### Media
-- The photos used in this site were obtained from ...
-
+- All pictures (except the Hero image on the Home page and the Lady Gaga logo on the top left of every page) were taken from Wikipedia (www.wikipedia.org)
+- The Hero image was taken from http://www.f-covers.com/ .
+- The Lady Gaga logo was taken from https://shop.ladygaga.com/ .
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from Lady Gaga as she is a very famous and talented person who can sing, act and dance.
+- 
+mrudge@gmail.com
