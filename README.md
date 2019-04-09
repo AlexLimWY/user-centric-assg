@@ -17,12 +17,7 @@ My goal in the design was to make it as easy as possible to access information o
 3. Bootstrap (Version 4)
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- I used a sticky button for the 'Biography' page so that the the user can easily click on the menu items to get to their intended section on this long page.
 
 ### Features Left to Implement
 - I would like to add smooth scrolling to the 'Biography' page's navigation menu so that the user will not jump to the section he clicks on. Instead, the page will scroll smoothly to the section after he clicks on it.
@@ -94,6 +89,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The Lady Gaga logo was taken from https://shop.ladygaga.com/ .
 ### Acknowledgements
 
-- I received inspiration for this project from Lady Gaga as she is a very famous and talented person who can sing, act and dance.
-- 
+- I received inspiration for this project from Lady Gaga. She is a very famous and talented person who can sing, act and dance. She has won numerous singing and acting awards and I thought that it would be interesting to find out how she achieved so much in this short amount of time. I wanted to share my findings on this website so that others can learn more about her also.
+ 
 mrudge@gmail.com
