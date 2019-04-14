@@ -43,6 +43,8 @@ Page Testing:
 2. Biography
 - The sticky button on the right side of the page does not disappear even whether the user scrolls the page down or up. 
 - Clicking on the sticky button on the right side of the page opens a navigation menu and the user can click on an item to go to its respective section on this page.  
+- Clicking the ‘Play’ button in the middle of a video in the ‘Interviews’ section plays the video
+- Clicking an indicator bar at the bottom centre of each video allows the user to slide to the respective video in the media carousel.
 
 3. Discography and Filmography
 - Clicking a “Read More” button opens a modal with descriptive text.
