@@ -1,6 +1,8 @@
 # Lady Gaga Information Site
 This is an information website about Lady Gaga. It will cover her life and achievements so that people can find out more about Lady Gaga.
- 
+
+## Demo
+A live demo can be found [here](https://alwy-user-centric-assignment.herokuapp.com/).
 ## UX
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. 
  - The light colour scheme was chosen to create a light-hearted and easy navigation feel. The main colours used were lavender (Lady Gaga's favourite colour) and white.
