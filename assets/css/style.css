@@ -19,3 +19,10 @@ h1, h2, h4, .nav-link, label {
     width: 100vw;
 }
 
+.footer {
+    background-color: white;
+}
+
+#Grammy_awards {
+    float: right;
+}

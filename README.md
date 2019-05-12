@@ -89,6 +89,7 @@ A person who wants to run this code locally can clone or download this repositor
 - All pictures (except the Hero image on the Home page and the Lady Gaga logo on the top left of every page) were taken from Wikipedia (www.wikipedia.org)
 - The Hero image was taken from http://www.f-covers.com/ .
 - The Lady Gaga logo was taken from https://shop.ladygaga.com/ .
+- The image for 'Accolades' on the 'Biography' page was taken from https://i.pinimg.com/originals/ab/ce/28/abce28ea092d8d361e23f79f62cc4a4c.jpg .
 ### Acknowledgements
 - I received inspiration for this project from Lady Gaga. She is a very famous and talented person who can sing, act and dance. She has won numerous singing and acting awards and I thought that it would be interesting to find out how she achieved so much in this short amount of time. I wanted to share my findings on this website so that others can learn more about her.
 - The sticky button for this website was inspired by https://www.haleyschafer.com/, which also uses a sticky button on the right side of the page.
